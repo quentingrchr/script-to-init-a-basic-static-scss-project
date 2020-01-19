@@ -28,3 +28,5 @@ git remote add origin $remoteURL
 ```shell
 git push -u origin master
 ```
+
+And you're all set !
