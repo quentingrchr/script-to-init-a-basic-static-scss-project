@@ -2,7 +2,7 @@
 
 This is a shell scrip to init a basic HTML / JavaScript / SCSS project.
 
-npm script are not generated so just replace the script in the package.json by
+npm scripts are not generated so just replace the script in the package.json by
 
 ```JSON
 "scripts": {
