@@ -200,9 +200,9 @@ echo "//importing abstracts folder
 @import \"components/button\";
 
 //importing components layout
-@import \"layout/header\";
-@import \"layout/footer\";
-@import \"layout/navigation\";" >> src/scss/style.scss 
+@import \"layouts/header\";
+@import \"layouts/footer\";
+@import \"layouts/navigation\";" >> src/scss/style.scss 
 
 touch src/index.html
 echo "<!DOCTYPE html>
