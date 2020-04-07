@@ -18,7 +18,7 @@ git add *
 ```
 
 ```shell
-git commit "first commit'
+git commit "first commit"
 ```
 
 ```shell
